@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="https://media.tenor.com/Xq9lCftr1-oAAAAi/neko-hearts.gif](https://media.tenor.com/TReUojNlZ6wAAAAi/js-javascript.gif" alt="gif">
+  <img src="https://media.tenor.com/TReUojNlZ6wAAAAi/js-javascript.gif" alt="gif">
 </div>
 
 # Atividades-em-JavaSript-parte-2
